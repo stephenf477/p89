@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+h2{
+    text-decoration: sol;
+}
+
+button {
+    display:block;
+    height:25px;
+    width:200px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: crimson;
+    color:antiquewhite;
+    
+
+
+
+}
